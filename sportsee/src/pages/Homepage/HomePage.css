@@ -1,0 +1,9 @@
+.homepage {
+  min-height: 90vh;
+  display: flex;
+}
+
+.dashboard {
+  width: 80%;
+  margin: auto;
+}
